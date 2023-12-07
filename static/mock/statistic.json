@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Aimee Zank",
+        "scores": [
+            {
+                "score": 1.463179736705023,
+                "type": "exam"
+            },
+            {
+                "score": 11.78273309957772,
+                "type": "quiz"
+            },
+            {
+                "score": 35.8740349954354,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Misha Onyshchenko",
+        "scores": [
+            {
+                "score": 9.52389751923932,
+                "type": "exam"
+            },
+            {
+                "score": 15.89762348598261,
+                "type": "quiz"
+            },
+            {
+                "score": 28.76348929384722,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Ksenia Slipko",
+        "scores": [
+            {
+                "score": 5.67834291827463,
+                "type": "exam"
+            },
+            {
+                "score": 20.89374629384722,
+                "type": "quiz"
+            },
+            {
+                "score": 40.23948729384722,
+                "type": "homework"
+            }
+        ]
+    },
+    {
+        "name": "Jaroslav Pryshchepka",
+        "scores": [
+            {
+                "score": 12.345678,
+                "type": "exam"
+            },
+            {
+                "score": 25.678912,
+                "type": "quiz"
+            },
+            {
+                "score": 30.123456,
+                "type": "homework"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "password": "mysecretpassword",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "createdAt": "2023-05-06T08:12:34.567Z",
+    "tags": [
+      "Sales",
+      "Marketing"
+    ]
+  },
+    {
+    "firstName": "Mykhailo",
+    "lastName": "Onyshchenko",
+    "email": "kekymber@example.com",
+    "password": "123",
+    "age": 20,
+    "address": {
+      "street": "Lorem",
+      "city": "Ipsum",
+      "state": "KHARKIV",
+      "zip": "61145",
+      "country": "UKRAINE"
+    },
+    "createdAt": "2023-12-07T08:12:34.567Z",
+    "tags": [
+      "Sales",
+      "Marketing",
+      "BACKEND",
+      "Developer"
+    ]
+  },
+    {
+    "firstName": "Ksushka",
+    "lastName": "Slipko",
+    "email": "ks.sl@example.com",
+    "password": "qwerty",
+    "age": 20,
+    "address": {
+      "street": "Ipsum",
+      "city": "Lorem",
+      "state": "CA",
+      "zip": "61000",
+      "country": "UKRAINE"
+    },
+    "createdAt": "2023-07-06T08:12:34.567Z",
+    "tags": [
+      "Sales",
+      "Marketing",
+      "Best",
+      "Trulala"
+    ]
+  }
+
+]
